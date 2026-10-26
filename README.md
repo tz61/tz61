@@ -1,7 +1,7 @@
 <h2>Hi there! I'm Tongning Zhang (张潼宁).</h2>
 
 <a href="https://github.com/tz61">
-  <img align="right" width="420" alt="Tongning Zhang's public GitHub statistics" src="https://github-stats-extended.vercel.app/api?username=tz61&amp;include_all_commits=true&amp;theme=buefy&amp;show_icons=true&amp;rank_icon=github&amp;custom_title=Tongning%27s%20GitHub%20Stats&amp;disable_animations=true" />
+  <img align="right" width="420" alt="Tongning Zhang's public GitHub statistics" src="https://github-stats-extended.vercel.app/api?username=tz61&amp;include_all_commits=true&amp;theme=buefy&amp;show_icons=true&amp;rank_icon=default&amp;custom_title=Tongning%27s%20GitHub%20Stats&amp;disable_animations=true" />
 </a>
 
 ### 👨‍💻 About Me
