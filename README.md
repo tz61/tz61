@@ -30,10 +30,13 @@
   ![ROS 2](https://img.shields.io/badge/ROS_2-30363d?style=flat&logo=ros&logoColor=FFFFFF)
 - 🔌
   ![STM32](https://img.shields.io/badge/STM32-30363d?style=flat&logo=stmicroelectronics&logoColor=5FC9F8)
+  ![TI C2000](https://img.shields.io/badge/TI_C2000-30363d?style=flat)
+  ![Allwinner/Rockchip](https://img.shields.io/badge/Allwinner%2FRockchip-30363d?style=flat)
   ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-30363d?style=flat)
   ![ChibiOS](https://img.shields.io/badge/ChibiOS-30363d?style=flat)
 - 🎛️
   ![FPGA](https://img.shields.io/badge/FPGA-30363d?style=flat&logo=amd&logoColor=ED1C24)
+  ![ZYNQ UltraScale+](https://img.shields.io/badge/ZYNQ_UltraScale%2B-30363d?style=flat)
   ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-30363d?style=flat)
   ![PCB Design](https://img.shields.io/badge/PCB_Design-30363d?style=flat)
   ![CadenceSPB](https://img.shields.io/badge/CadenceSPB-30363d?style=flat)
