@@ -8,7 +8,7 @@
 
 - 🎓 **M.S. in Robotics at Georgia Tech**.
 - 🤖 Humanoid robot learning, reinforcement learning, and motion imitation.
-- ⚡ **GT RoboRambler**.
+- ⚡ **GT RoboRambler (ARCC)** and **ZJUI Meta (RMU)** (previous).
 - 🏫 **UIUC Computer Engineering · ZJU ECE**.
 
 <a href="https://github.com/tz61?tab=repositories">
@@ -36,7 +36,7 @@
   ![FPGA](https://img.shields.io/badge/FPGA-30363d?style=flat&logo=amd&logoColor=ED1C24)
   ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-30363d?style=flat)
   ![PCB Design](https://img.shields.io/badge/PCB_Design-30363d?style=flat)
-  ![Cadence](https://img.shields.io/badge/Cadence-30363d?style=flat)
+  ![CadenceSPB](https://img.shields.io/badge/CadenceSPB-30363d?style=flat)
 - ⚙️
   ![Linux](https://img.shields.io/badge/Linux-30363d?style=flat&logo=linux&logoColor=FCC624)
   ![Git](https://img.shields.io/badge/Git-30363d?style=flat&logo=git&logoColor=F05032)
